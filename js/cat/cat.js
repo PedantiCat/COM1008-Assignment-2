@@ -20,7 +20,7 @@ class Cat {
         this.bongos = new Bongos(canvas,-130,60)
 
         this.purr = new Audio
-        this.purr.src = "snd/Purr.mp3"
+        this.purr.src = "snd/purr.mp3"
         this.purr.loop = true
     }
 
